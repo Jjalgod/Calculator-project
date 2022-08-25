@@ -508,4 +508,4 @@ private: System::Void btnSpace_Click(System::Object^ sender, System::EventArgs^ 
 	}
 }
 };
-}
+}//
